@@ -10,15 +10,9 @@ Because Hydrogen programming language will be simple, lightweight, and scientifi
 
 Hydrogen is currently under development, but hopping it will grow in the near future.
 
-## About Hydrogen and the Compiler
-
-Hydrogen is a programming language designed to be simple, safe, and expressive. It is a good choice for beginners and experienced programmers alike.
-
-The Hydrogen Compiler is a tool that converts Hydrogen code into assembly language. This allows you to run Hydrogen code on any platform that supports assembly language.
-
 ## Why Rust?
 
-yes TheCompiler is build upon Rust. Here is the most important reason why we chose Rust over C++: Because C++ is too mainstream. I mean, come on, everyone is using C++. It's like the Justin Bieber of programming languages. So I thought, **"Why not? Let's do it!"**
+Yes TheCompiler is build upon Rust. Here is the most important reason why we chose Rust over C++: Because C++ is too mainstream. I mean, come on, everyone is using C++. It's like the Justin Bieber of programming languages. So I thought, **"Why not? Let's do it!"**
 
 I believe that Rust is the best language for this project. I am excited to see what I will accomplish with Rust!
 

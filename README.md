@@ -23,7 +23,7 @@ To use the TheCompiler, you will need to have Rust installed on your computer. O
 1. Clone this repository using this command 👇
 
 ```bash
-git clone 
+git clone https://github.com/p21nc3/TheCompiler.git
 ```
 
 2. Get into the src(source directory).

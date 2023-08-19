@@ -67,7 +67,7 @@ TheCompiler uses Cargo, the Rust package manager, to manage its dependencies and
 
 ## Contributing
 
-Welcoming contributions to this project. If you would like to contribute, please fork the repository and submit a pull request. And Follow the [Code Of Conduct]()
+Welcoming contributions to this project. If you would like to contribute, please fork the repository and submit a pull request. And Follow the [Code Of Conduct](https://github.com/p21nc3/TheCompiler/blob/main/Contribution.md)
 
 ## License
 
